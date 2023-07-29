@@ -1,6 +1,6 @@
 <h1 align="center">FKData</h1>
 <h1 align="center">
-  <img src="src/logo.png" width="200px"></a>
+  <img src="logo.png" width="200px"></a>
   <br>
 </h1>
 <h4 align="center">Simple Fake Data Generator.</h4>
@@ -18,7 +18,7 @@ faqMailAccess is tool that developed by Salman Alwan aka JustFaQ to save your ti
 
 # Features
 <h1 align="left">
-  <img src="src/mc.png" width="700px"></a>
+  <img src="mc.png" width="700px"></a>
   <br>
 </h1>
 <h3 align="left">Main Commands 🦉</h3>
