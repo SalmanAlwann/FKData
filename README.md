@@ -13,7 +13,7 @@
 ---
 
 
-faqMailAccess is tool that developed by Salman Alwan aka JustFaQ to save your time generating data for you, it is simple i know but this is the beta version. You may face some problems, feel free to edit the code. More tools will be added soon.
+FKData is tool that developed by Salman Alwan aka JustFaQ to save your time generating data for you, it is simple i know but this is the beta version. You may face some problems, feel free to edit the code. More tools will be added soon.
 
 # Features
 <h1 align="left">
