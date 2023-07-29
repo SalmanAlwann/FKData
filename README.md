@@ -1,6 +1,5 @@
-<h1 align="center">FKData</h1>
 <h1 align="center">
-  <img src="logo.png" width="200px"></a>
+  <img src="logo.png" width="500px"></a>
   <br>
 </h1>
 <h4 align="center">Simple Fake Data Generator.</h4>
